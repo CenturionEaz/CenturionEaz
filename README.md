@@ -1,117 +1,100 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:111927,100:1a2333&height=200&section=header&text=Pratyush%20Rai&fontSize=44&fontColor=00f0ff&fontAlignY=38&desc=Systems%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Automation&descSize=16&descAlignY=58&descColor=8b9bb4" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f0ff&text=Pratyush%20Rai&height=120&fontSize=52&desc=Systems%20%7C%20Automation%20%7C%20Machine%20Learning&descSize=16&descColor=8b9bb4&fontAlignY=45&descAlignY=70" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;System-Level+Thinker+%26+Builder;Machine+Learning+%26+Data+Science+Explorer;Reverse+Engineering+%26+Automation+Architect;I+analyze.+I+break.+I+build.+I+learn."/>
-</p>
+  <p align="center">
+    <a href="https://github.com/CenturionEaz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=CS+Undergrad+%E2%80%A2+Exploring+Internals+%26+Automation;Building+tools+that+solve+real+friction;Reverse+engineering+client+runtimes;Analyzing+models%2C+data+%26+failure+modes."/></a>
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CenturionEaz&label=Profile+Views&color=00f0ff&style=flat-square"/>
-  <a href="https://github.com/CenturionEaz?tab=followers"><img src="https://img.shields.io/github/followers/CenturionEaz?label=Followers&color=1f293d&style=flat-square"/></a>
-  <a href="https://github.com/CenturionEaz?tab=repositories"><img src="https://img.shields.io/github/stars/CenturionEaz?affiliations=OWNER&label=Stars&color=1f293d&style=flat-square"/></a>
-  <img src="https://img.shields.io/badge/Focus-Systems%20%7C%20ML%20%7C%20Internals-blue?style=flat-square"/>
-</p>
-
----
-
-## 🧠 Identity & Architecture Mindset
-
-```diff
-+ Computer Science & Systems Engineering
-+ Core Focus: Machine Learning, System Internals, Reverse Engineering & Automation
-+ Approach: Root-cause debugging, deep behavioral dynamics & fault-tolerant design
-! Mindset: I don't just write code — I study systems under pressure.
-```
-
-> *"Most developers stop at implementation. I aim to go deeper — into behavior, internal runtime mechanics, and failure modes. Understand deeply. Break assumptions, not production."*
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=CenturionEaz&label=views&color=00f0ff&style=flat-square"/>
+    <a href="https://github.com/CenturionEaz?tab=repositories"><img src="https://img.shields.io/github/stars/CenturionEaz?affiliations=OWNER&label=stars&color=161b22&style=flat-square"/></a>
+    <a href="https://github.com/CenturionEaz?tab=followers"><img src="https://img.shields.io/github/followers/CenturionEaz?label=followers&color=161b22&style=flat-square"/></a>
+  </p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 👨‍💻 About Me
 
-Here is a curated showcase of my engineering work spanning **reverse engineering & automation**, **applied machine learning**, and **systems utilities**:
+I'm a Computer Science student interested in **understanding how software works under the surface**. Rather than just building on top of abstractions, I like digging into runtime mechanics, reverse-engineering client loops, and building practical automation and utility tools.
 
-### 🛠️ 1. Reverse Engineering, Automation & System Internals
+- 🔍 **What I do:** Explore client-side runtimes, build resilient automation without mouse hijacking, and apply ML models to real data.
+- ⚙️ **Current focus:** Systems programming, Electron lifecycle hooks, data deduplication, and algorithmic problem solving.
+- 🎯 **Engineering motto:** Understand the mechanics first. Build clean, fault-tolerant tools that don't break when environments change.
+
+---
+
+### 🚀 Featured Projects
+
+A selection of tools, automation engines, and machine learning experiments I've built:
 
 <table>
+  <!-- Row 1: Systems & Automation -->
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/CenturionEaz/PClickerBot">PClickerBot</a></h3>
-      <p><b>PokéClicker 100% Completionist Automation Suite & Cyber Dashboard</b></p>
-      <p>An internal non-invasive automation engine and glassmorphism HUD for single-player PokéClicker. Features a triple-redundant update-proof architecture with Electron <code>app.asar</code> lifecycle hooks, dynamic Knockout.js state unwrapping, and 4-stage route/Safari completionism.</p>
+      <h4>⚡ <a href="https://github.com/CenturionEaz/PClickerBot">PClickerBot</a></h4>
+      <p>Internal automation engine & glassmorphism overlay for PokéClicker. Bypasses engine click throttles, hooks directly into Electron's <code>app.asar</code> lifecycle for update-proof persistence, and automates 100% completionism without mouse hijacking.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Electron-Desktop-47848F?style=flat-square&logo=electron&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web%20Extension-Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Reverse%20Engineering-Hooks-00f0ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Runtime%20Hooks-00f0ff?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/CenturionEaz/CatchTwo">CatchTwo</a></h3>
-      <p><b>High-Speed Multi-Account Autocatcher & Event Pipeline</b></p>
-      <p>An open-source automation platform featuring intelligent pattern-matching heuristics, OCR image processing, multi-account orchestration, and asynchronous event parsing designed for high throughput and resilience.</p>
+      <h4>🎯 <a href="https://github.com/CenturionEaz/CatchTwo">CatchTwo</a></h4>
+      <p>Asynchronous multi-account autocatcher platform. Implements OCR image recognition, heuristic pattern matching, and concurrent event parsing for resilient, high-speed execution.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OCR-Image%20Processing-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/AsyncIO-Networking-239120?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Automation-Bot-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OCR%20Vision-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AsyncIO-239120?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Discord%20API-5865F2?style=flat-square&logo=discord&logoColor=white"/>
       </p>
     </td>
   </tr>
-</table>
 
-### 🤖 2. Applied Machine Learning & Data Intelligence
-
-<table>
+  <!-- Row 2: ML & Systems Tools -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/CenturionEaz/Breast-Cancer-Detection-ML">Breast-Cancer-Detection-ML</a></h3>
-      <p><b>Diagnostic Machine Learning Classification Pipeline</b></p>
-      <p>End-to-end medical ML pipeline on the Wisconsin Diagnosis dataset. Employs Exploratory Data Analysis (EDA), Principal Component Analysis (PCA) for dimensionality reduction, and optimized Logistic Regression with high-accuracy ROC-AUC metrics.</p>
+      <h4>🔬 <a href="https://github.com/CenturionEaz/Breast-Cancer-Detection-ML">Breast-Cancer-Detection-ML</a></h4>
+      <p>Diagnostic ML classification pipeline on the Wisconsin dataset. Covers full exploratory data analysis (EDA), PCA dimensionality reduction, and optimized Logistic Regression with comprehensive ROC-AUC evaluation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PCA-Dimensionality%20Reduction-00599C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Pandas-NumPy-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PCA-Dimensionality-00599C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/CenturionEaz/FileEngine">FileEngine</a></h3>
-      <p><b>Intelligent Duplicate File & Blurry Image Detector</b></p>
-      <p>Multi-threaded filesystem analyzer that detects duplicate files of any format. Integrates perceptual hashing and computer vision algorithms to identify visually identical and low-quality/blurry images to optimize system storage.</p>
+      <h4>📁 <a href="https://github.com/CenturionEaz/FileEngine">FileEngine</a></h4>
+      <p>Multi-threaded filesystem utility that detects exact duplicate files as well as visually duplicate or blurry images using perceptual hashing (<code>pHash</code>) and OpenCV variance analysis.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Perceptual%20Hashing-pHash-3776AB?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Multi--Threading-I%2FO-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Storage%20Opt-System%20Tool-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Perceptual%20Hashing-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Multi--Threaded-orange?style=flat-square"/>
       </p>
     </td>
   </tr>
-</table>
 
-### ⚙️ 3. Tools, Compilers & Algorithmic Problem Solving
-
-<table>
+  <!-- Row 3: Scraper & Algorithms -->
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/CenturionEaz/lightnovel-crawler">lightnovel-crawler</a></h3>
-      <p><b>Automated Web Fiction Scraper & EPUB Synthesizer</b></p>
-      <p>High-efficiency web crawler that parses online serials and synthesizes them into structured, offline-ready e-books with automated metadata, chapter formatting, and media extraction.</p>
+      <h4>📖 <a href="https://github.com/CenturionEaz/lightnovel-crawler">lightnovel-crawler</a></h4>
+      <p>Automated crawler that scrapes web fiction serials and compiles them into cleanly formatted, offline-ready EPUB e-books with chapter hierarchies and metadata extraction.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-Web%20Scraping-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EPUB-Compiler-green?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Regex-Parsing-critical?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web%20Scraping-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/EPUB%20Synthesis-blueviolet?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💡 <a href="https://github.com/CenturionEaz/LeetCode-Solutions">LeetCode-Solutions</a></h3>
-      <p><b>Algorithmic Implementations & Complexity Optimization</b></p>
-      <p>Curated C++ repository of data structures and algorithms, focusing on time/space optimal solutions across Dynamic Programming, Graph Theory, Trees, and Divide-and-Conquer paradigms.</p>
+      <h4>💡 <a href="https://github.com/CenturionEaz/LeetCode-Solutions">LeetCode-Solutions</a></h4>
+      <p>Structured C++ implementations of algorithmic problems covering Dynamic Programming, Graph Theory, Trees, and Data Structures, focused on clean time & space optimal code.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Algorithms-Optimized-yellow?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Data%20Structures-STL-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Data%20Structures-red?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -119,7 +102,7 @@ Here is a curated showcase of my engineering work spanning **reverse engineering
 
 ---
 
-## 🛠️ Technical Arsenal
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -127,55 +110,36 @@ Here is a curated showcase of my engineering work spanning **reverse engineering
   </a>
 </p>
 
-| Domain | Technologies & Frameworks |
+| Category | Tools & Technologies |
 |---|---|
-| **Core Languages** | Python, C++, Java, JavaScript (ES6+), TypeScript, Bash/Shell |
-| **Machine Learning & Data** | Scikit-learn, Pandas, NumPy, OpenCV, Jupyter, Data Visualization, EDA, PCA |
-| **System & Runtime Engineering** | Electron, Node.js, Linux / POSIX internals, Chrome DevTools Protocol (CDP), IPC Architecture |
-| **Development & Tooling** | Git, GitHub, VS Code, Knockout.js Reactive State, Web Extensions (Manifest V3) |
-| **Architectural Focus** | Reverse engineering, automated testing, failure-mode isolation, multi-threading |
+| **Languages** | Python, C++, Java, JavaScript (ES6+), TypeScript, Bash/Shell |
+| **Libraries & Frameworks** | Scikit-learn, Pandas, NumPy, OpenCV, Node.js, Electron, Knockout.js |
+| **Systems & Tools** | Linux / POSIX, Git, Windows Internals, ASAR Packaging, Chrome DevTools Protocol |
+| **Domains of Interest** | Reverse engineering, runtime hooks, async pipelines, file deduplication, applied ML |
 
 ---
 
-## 📊 GitHub Intelligence & Activity
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CenturionEaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=CenturionEaz&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CenturionEaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155"/>
+  <img src="https://streak-stats.demolab.com?user=CenturionEaz&theme=tokyonight&hide_border=true&background=0d1117" height="155"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenturionEaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CenturionEaz&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenturionEaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="135"/>
 </p>
 
 ---
 
-## 🧬 Engineering Trajectory
-
-```yaml
-Focus:
-  - Building resilient software that handles edge cases gracefully
-  - Bridging low-level system understanding with high-level ML applications
-  - Designing automation that respects runtime constraints without fragility
-Philosophy:
-  - "Understand the mechanics before writing the abstraction."
-  - "Find where systems break; that's where the real learning happens."
-```
-
----
-
-## 🌐 Connect & Network
+### 📬 Connect
 
 <p align="center">
   <a href="https://linktr.ee/CenturionEaz">
     <img src="https://img.shields.io/badge/Linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
   <a href="https://github.com/CenturionEaz">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:pratyushrai110@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -183,5 +147,5 @@ Philosophy:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:111927,100:1a2333&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:111927,100:1a2333&height=70&section=footer" width="100%"/>
 </p>
